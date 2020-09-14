@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "587717027556",
+    "firebase_url": "https://greek-news-app.firebaseio.com",
+    "project_id": "greek-news-app",
+    "storage_bucket": "greek-news-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587717027556:android:464a2f0bd7748cd4642ef1",
+        "android_client_info": {
+          "package_name": "com.all.greek.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587717027556-08eoao8ek09aobov77vchuru2rcrsk9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.all.greek.news",
+            "certificate_hash": "243f8f63067a90709938513208785b5cd1138b74"
+          }
+        },
+        {
+          "client_id": "587717027556-p37pdmtelilhjg0eim4anrioul9ch0ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbykw8XLUUkmOGZBb-iPLnHDWDHIxaoZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587717027556-p37pdmtelilhjg0eim4anrioul9ch0ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4788816498403375~2708230334"
+    }
+  ],
+  "configuration_version": "1"
+}
